@@ -108,4 +108,114 @@ By the end of the course, you should be able to:
 
 ---
 
+## 🧠 **Python 3: Project-Based Course on Algorithms and Data Structures**
+
+### ✅ **Target Audience**
+
+* Beginner to Intermediate Python developers
+* Preparing for coding interviews (FAANG-style)
+* Learning algorithms through real projects
+
+## 📘 **Course Breakdown**
+
+### 📌 1. **Core Python Refresher**
+
+* Data types, loops, functions, classes
+* List comprehensions, `*args`, `**kwargs`
+* Error handling, file I/O
+
+📁 **Mini Project**: File Organizer Tool
+
+> Organizes messy folders by file type using Python's `os` module
+
+### 📌 2. **Data Structures in Python**
+
+* Arrays, Lists, Stacks, Queues
+* Hashmaps (Dictionaries), Sets
+* Linked Lists (Singly & Doubly)
+* Trees (Binary, BST, AVL, Trie)
+* Graphs (Adjacency list & matrix)
+
+📁 **Projects**:
+
+* **To-Do App** (with Stack for undo/redo)
+* **Autocomplete System** using Trie
+* **Graph Navigator**: Build a simplified map with Dijkstra's Algorithm
+
+### 📌 3. **Sorting & Searching Algorithms**
+
+* Bubble, Selection, Insertion Sort
+* Merge Sort, Quick Sort
+* Binary Search, Interpolation Search
+
+📁 **Project**:
+**E-Commerce Search Engine**
+
+> Implement keyword search with fast binary search and sorting for results (by price, rating, etc.)
+
+### 📌 4. **Recursion & Backtracking**
+
+* Recursive thinking
+* Backtracking patterns
+* Subsets, Permutations, N-Queens
+
+📁 **Project**:
+**Sudoku Solver**
+
+> Backtracking algorithm to solve any valid Sudoku board
+
+### 📌 5. **Dynamic Programming (DP)**
+
+* Memoization & Tabulation
+* Fibonacci, Longest Common Subsequence
+* Knapsack, Matrix path, Coin change
+
+📁 **Project**:
+**Travel Itinerary Optimizer**
+
+> Use DP to find the cheapest path with constraints like time or cost
+
+### 📌 6. **Graph Algorithms**
+
+* BFS, DFS (Recursive & Iterative)
+* Dijkstra, Bellman-Ford, A\*
+* Topological Sort, Cycle Detection
+
+📁 **Project**:
+**Social Network Analyzer**
+
+> Model a social graph and find shortest connections, influencers, etc.
+
+### 📌 7. **Algorithmic Challenges & Interview Prep**
+
+* Sliding Window
+* Two Pointers
+* Hashing & Frequency Maps
+* Prefix Sums, Heaps, Bit Manipulation
+
+📁 **Project**:
+**LeetCode Tracker CLI App**
+
+> Track solved problems, difficulty, and topics with a local JSON DB
+
+## 🛠️ **Tools & Libraries**
+
+* Python 3.x
+* `collections` (`deque`, `defaultdict`, `Counter`)
+* `heapq`, `bisect`, `itertools`
+* `networkx` (for graph projects)
+* `turtle` (for visualizing algorithms)
+
+## 🧪 Sample Capstone Projects
+
+| Project                      | Key Concepts                     |
+| ---------------------------- | -------------------------------- |
+| Maze Generator & Solver      | DFS, Backtracking                |
+| Chat App with Priority Inbox | Queues, Heaps                    |
+| Route Planner for Delivery   | Graphs, Shortest Path            |
+| Inventory System             | Hash Tables, Linked Lists        |
+| Markdown Editor              | Stack, Trie (for autocompletion) |
+
+---
+
 
