@@ -1,7 +1,5 @@
 # Work_Experience_Research_Course
 
----
-
 ## 🧠 **The Complete Machine Learning Course with Python** — Overview
 
 ### 🧩 **1. Prerequisites**
@@ -9,8 +7,6 @@
 * Basic Python programming
 * Some understanding of math: linear algebra, probability, statistics
 * Tools: Jupyter Notebook, Git, pip/conda
-
----
 
 ### 📘 **2. Course Modules**
 
@@ -79,8 +75,6 @@
 * TensorFlow / Keras: MLPs, CNNs
 * Training, loss functions, optimizers
 
----
-
 ### 🛠️ **Tools and Libraries**
 
 * Python (Jupyter, VSCode)
@@ -91,7 +85,6 @@
 * NLTK, SpaCy, Hugging Face Transformers
 * Statsmodels, Prophet (for Time Series)
 
----
 
 ### 📊 **Capstone Projects Ideas**
 
@@ -103,7 +96,6 @@
 6. **Twitter Sentiment Analysis**
 7. **Handwritten Digit Recognition (MNIST)**
 
----
 
 ### 🏁 **Outcome**
 
