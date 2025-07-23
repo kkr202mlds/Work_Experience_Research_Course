@@ -1,0 +1,5 @@
+## Specifications
+- There are a basic number of jobs that are input to the program when it starts. These jobs are added to a 'load file' the night before. The program needs to be able to load these jobs and create a starter schedule from this load file when it starts.
+- The program needs to be dynamic - jobs can be scheduled or removed during the day. The program needs to have an interface through which new jobs can be added to the schedule and existing jobs can be removed, without changing the order of the remaining jobs already scheduled.
+- Jobs can only run one at a time. There cannot be any overlap during the duration of a job. The scheduling program needs to be able to test for this while jobs are being scheduled, both dynamically and from the load file.
+- The load file will need to be dynamically updated as jobs are being added or removed in the scheduling program. This is necessary to ensure that the modified daily schedule (due to add/remove transactions) are not lost when the user exits the
